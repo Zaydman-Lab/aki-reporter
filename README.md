@@ -37,3 +37,6 @@ Cleans data and applies Cr based KDIGO criteria to identify and stage AKI cases.
 ### aki-dash.py
 
 Provide analytical dashboard where the end user can review the aki cases, view Cr trends, and develop and inventory of specimen to capture.
+
+### users.txt
+Text file with username/password pairs for authorized users.
